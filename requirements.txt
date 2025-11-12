@@ -1,0 +1,8 @@
+streamlit
+ccxt
+pandas
+ta
+pycoingecko
+requests
+scikit-learn
+numpy
